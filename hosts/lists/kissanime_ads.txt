@@ -4,5 +4,4 @@
 # Issues: https://github.com/prajjwalburman/pihole_blocklist/issues
 # Source: https://github.com/prajjwalburman/pihole_blocklist/lists/kissanime_ads.txt
 
-8.8.8.8 siteplug.com
-8.8.8.8 toglooman.com
+8.8.8.8 facebook.com
